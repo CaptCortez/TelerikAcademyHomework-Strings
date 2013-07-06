@@ -1,0 +1,4 @@
+TelerikAcademyHomework-Strings
+==============================
+
+TelerikAcademyHomework/Strings
